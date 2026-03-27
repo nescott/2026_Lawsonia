@@ -1,0 +1,17 @@
+/scratch.global/scot0854/lawsonia/trimmed_fastq/47216_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/52477_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/59690_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/916_91_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/BE01_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/D15_540_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/E5_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/F1196_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/Frozen_vaccine_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/Ham1_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/HOFF_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/KK_UMN04_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/LR_189_5_85_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/NW_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/PHEhigh_passage_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/PHElow_passage_trimmed.fq
+/scratch.global/scot0854/lawsonia/trimmed_fastq/UMN_04_trimmed.fq

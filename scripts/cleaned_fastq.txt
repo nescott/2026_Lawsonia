@@ -1,0 +1,17 @@
+fastq/cleaned/47216_clean.fastq.gz
+fastq/cleaned/52477_clean.fastq.gz
+fastq/cleaned/59690_clean.fastq.gz
+fastq/cleaned/916_91_clean.fastq.gz
+fastq/cleaned/BE01_clean.fastq.gz
+fastq/cleaned/D15_540_clean.fastq.gz
+fastq/cleaned/E5_clean.fastq.gz
+fastq/cleaned/F1196_clean.fastq.gz
+fastq/cleaned/Frozen_vaccine_clean.fastq.gz
+fastq/cleaned/Ham1_clean.fastq.gz
+fastq/cleaned/HOFF_clean.fastq.gz
+fastq/cleaned/KK_UMN04_clean.fastq.gz
+fastq/cleaned/LR_189_5_85_clean.fastq.gz
+fastq/cleaned/NW_clean.fastq.gz
+fastq/cleaned/PHEhigh_passage_clean.fastq.gz
+fastq/cleaned/PHElow_passage_clean.fastq.gz
+fastq/cleaned/UMN_04_clean.fastq.gz

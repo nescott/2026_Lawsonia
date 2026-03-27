@@ -1,0 +1,10 @@
+assembly/
+bam/
+centrifuge_output/
+fastq/
+freebayes_phe_mn1_00/
+mash_distances/
+phylogeny/
+qc_logs/
+snippy/
+.Rproj.user/

@@ -1,0 +1,17 @@
+fastq/subsample/47216_clean_subsampled.fastq
+fastq/subsample/52477_clean_subsampled.fastq
+fastq/subsample/59690_clean_subsampled.fastq
+fastq/subsample/916_91_clean_subsampled.fastq
+fastq/subsample/BE01_clean_subsampled.fastq
+fastq/subsample/D15_540_clean_subsampled.fastq
+fastq/subsample/E5_clean_subsampled.fastq
+fastq/subsample/F1196_clean_subsampled.fastq
+fastq/subsample/Frozen_vaccine_clean_subsampled.fastq
+fastq/subsample/Ham1_clean_subsampled.fastq
+fastq/subsample/HOFF_clean_subsampled.fastq
+fastq/subsample/KK_UMN04_clean_subsampled.fastq
+fastq/subsample/LR_189_5_85_clean_subsampled.fastq
+fastq/subsample/NW_clean_subsampled.fastq
+fastq/subsample/PHEhigh_passage_clean_subsampled.fastq
+fastq/subsample/PHElow_passage_clean_subsampled.fastq
+fastq/subsample/UMN_04_clean_subsampled.fastq
