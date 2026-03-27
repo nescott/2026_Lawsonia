@@ -1,4 +1,4 @@
-#*Lawsonia intracellularis* isolate genomic analysis
+# *Lawsonia intracellularis* isolate genomic analysis
 
 * 22 isolates from 3 host species in 4 countries 
 * Isolates were cultured in McCoy cells and DNA was extracted
