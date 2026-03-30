@@ -29,13 +29,13 @@ VPB4 | pig | USA | 1991 | yes |
 1482_89 | pig | ? | ?| no | 
 
 ## Initial sample processing and QC
-Adapter and quality trimming was performed on single-end 150bp fastq files,
-(BBDuk v38.94) followed by sequencing QC with FastQC (v0.12.1)C and taxonomic
+Adapter and quality trimming was performed on single-end 150bp fastq files
+(BBDuk v38.94), followed by sequencing QC with FastQC(v0.12.1) and taxonomic
 classification with Centrifuge (v1.0.4). Sequencing counts ranged from ~2000 
 in sample 1482_89 to ~4.1 million in D15_540. The major species identified were 
 *L. intracellularis*, *Mus musculus* and *Mycoplasma hyorhinis*. *Lawsonia* 
 accounted for the majority of reads in all but 4 of the samples (1482_89, 963_93, 
-E8, E40504) which were excluded from further analysis. Sample VBP4 had a majority\
+E8, E40504) which were excluded from further analysis. Sample VBP4 had a majority
 of *Lawsonia* reads but fewer than 60k reads overall and was also excluded.
 
 Fastq files for the remaining isolates were further processed to remove
@@ -58,4 +58,4 @@ snippy-multi output was used for the remainder of the analysis.
 ### Tree building with recombination correction
 Phylogeny construction with recombination correction was performed using Gubbins
 v3.4.3, specifying IQ-TREE(v2.4.0) for tree building with automatic selection
-of best substitution model and bootstrapping.
+of best substitution model and bootstrapping (see "phylogeny.sh").
