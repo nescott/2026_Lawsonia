@@ -5,26 +5,25 @@
 #SBATCH --mem=8gb
 #SBATCH --mail-type=FAIL
 #SBATCH --mail-user=scot0854@umn.edu
-#SBATCH --time=4:00:00
+#SBATCH --time=1:00:00
 #SBATCH -p msismall,msilarge
 #SBATCH -o %A_%a.out
 #SBATCH -e %A_%a.err
-#SBATCH --array=8
+#SBATCH --array=2-22
 
 set -ue
 set -o pipefail
 
 line=${SLURM_ARRAY_TASK_ID}
-sample_file=trimmed_fastq.txt
+sample_file=raw_fastq.txt
 tempdir=/scratch.global/scot0854/lawsonia
 species=Lawsonia
 instrument=NextSeq
 mouse=/common/bioref/ensembl/main/Mus_musculus_c57bl6nj-113/C57BL_6NJ_v1/bwa/genome
 myco=/projects/standard/naika031/shared/ref_genomes/m_hyorhinis/GCF_900476065.1_50465_F02_genomic.fna.gz
-ref_fasta=/projects/standard/naika031/shared/ref_genomes/lawsonia/N343/GCF_000331715.1_ASM33171v1_genomic.fna.gz
-
+ref_fasta=/projects/standard/naika031/shared/ref_genomes/lawsonia/PHE_MN1-00/GCF_000055945.1_ASM5594v1_genomic.fna.gz
 read=$(awk -v val="$line" 'NR == val { print $0}' $sample_file)
-strain=$(basename -s _trimmed.fq $read)
+strain=$(basename -s .fastq.gz $read)
 
 # Load modules for trimming and aligning
 module use /projects/standard/naika031/shared/modulefiles.local
