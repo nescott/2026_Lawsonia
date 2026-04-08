@@ -8,4 +8,6 @@ mash_distances/
 phylogeny/
 qc_logs/
 snippy/
+spades_assembly/
+skesa_assembly/
 .Rproj.user/

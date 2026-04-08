@@ -13,7 +13,7 @@
 
 sample_file=cleaned_fastq.txt
 line=${SLURM_ARRAY_TASK_ID}
-centrifuge_home=/projects/standard/selmecki/shared/software/centrifuge
+centrifuge_home=/projects/standard/naika031/shared/software.install/centrifuge-1.0.3-beta
 db=/users/0/scot0854/centrifuge_index/ncbi_nt/nt
 out=centrifuge_output/cleaned
 module load python
