@@ -50,14 +50,11 @@ Snippy-multi was used to call variants, annotate and generate a core SNP
 alignment for all 17 samples against the PHE/MN1-00 reference genome (see
 "snippy-multi.sh" and "snippy-input.tab").
 
-### Freebayes v1.1.0 and snpEff v5.4a 
-Because snippy-multi calls variants for each sample individually before merging 
-results, Freebayes was run independently to perform joint genotyping of all 
-samples followed by variant annotation with snpEff. Results of both approaches were
-compared and snippy-multi output was used for the remainder of the analysis.
+## *De novo* assembly and annotation
+### Skesa v2.5.1
 
-## Phylogenetic analysis
-### Tree building with recombination correction
-Phylogeny construction with recombination correction was performed using Gubbins
-v3.4.3, specifying IQ-TREE(v2.4.0) for tree building with automatic selection
-of best substitution model and bootstrapping (see "phylogeny.sh").
+### PGAP (Prokaryotic Genome Annotation Pipeline), 2025-05-06.build7983
+
+## Population analysis
+### PopPUNK v2.7.8
+

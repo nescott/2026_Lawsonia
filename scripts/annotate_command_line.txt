@@ -1,0 +1,14 @@
+assembly=
+strain=
+
+module load python
+module load apptainer
+
+export PGAP_INPUT_DIR=/projects/standard/naika031/shared/software.install/pgap/.pgap
+
+/projects/standard/naika031/shared/software.install/pgap/pgap.py \
+    -r \
+    --no-internet \
+    -o "${strain}"_results \
+    -g "${assembly}" \
+    -s 'Lawsonia_intracellularis'
