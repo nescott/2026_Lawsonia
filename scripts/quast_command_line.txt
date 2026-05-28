@@ -1,0 +1,1 @@
+quast -R ../../../ref_genomes/lawsonia/PHE_MN1-00/GCF_000055945.1_ASM5594v1_genomic.fna -G ../../../ref_genomes/lawsonia/PHE_MN1-00/GCF_000055945.1_ASM5594v1_genomic.gff -t 8 *.fa

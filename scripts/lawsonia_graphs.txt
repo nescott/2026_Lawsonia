@@ -1,0 +1,17 @@
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/47216/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/52477/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/59690/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/916_91/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/BE01/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/D15_540/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/E5/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/F1196/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/Frozen_vaccine/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/Ham1/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/HOFF/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/KK_UMN04/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/LR_189_5_85/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/NW/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/PHEhigh_passage/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/PHElow_passage/assembly_graph_with_scaffolds.gfa
+/projects/standard/naika031/shared/2026_Lawsonia/spades_assembly/UMN04/assembly_graph_with_scaffolds.gfa
