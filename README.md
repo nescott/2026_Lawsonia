@@ -55,6 +55,8 @@ alignment for all 17 samples against the PHE/MN1-00 reference genome (see
 
 ### PGAP (Prokaryotic Genome Annotation Pipeline), 2025-05-06.build7983
 
+### gplasCC v1.0.1
+
 ## Population analysis
 ### PopPUNK v2.7.8
 
