@@ -51,12 +51,29 @@ alignment for all 17 samples against the PHE/MN1-00 reference genome (see
 "snippy-multi.sh" and "snippy-input.tab").
 
 ## *De novo* assembly and annotation
-### Skesa v2.5.1
+### SKESA v2.5.1 vs SPAdes v4.0.0
+All isolates were assembled with both SPADes and SKESA (see "array_skesa.sh").
+Assemblies were cleaned (duplicated contigs removed) using funannotate clean.
+All SPAdes assemblies had duplicated contigs (min 33, max 3844) and no SKESA
+contigs had duplicates identified by funannotate.
+
+Quality of cleaned assemblies was assessed relative to the reference genome using 
+QUAST v4.3. While SPADes produced longer scaffolds, SKESA produced fewer
+misassemblies relative to the reference genome.
 
 ### PGAP (Prokaryotic Genome Annotation Pipeline), 2025-05-06.build7983
+SKESA genome assemblies were annotated using the NCBI PGAP pipeline (run
+interactively). As assessed by CheckM, genome completeness ranged from 85.96 to
+88.19%, and contamination ranged from 0 to 1.79%.
 
 ### gplasCC v1.0.1
+gplasCC was used to search for novel plasmids in all isolates, using the SPADes
+assembly graphs as input and the general plasmid database from gplasCC (general
+= non-species specific). The resulting fasta files of predicted plasmid contigs
+were compared to the reference genome using BLAST.
 
 ## Population analysis
 ### PopPUNK v2.7.8
+All genomes were clustered using PopPUNK (database created using genome
+sketching, database QC, model fitting, and isolates queried).
 
